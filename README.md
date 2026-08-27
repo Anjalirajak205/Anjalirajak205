@@ -8,7 +8,6 @@ I'm a **Computer Science student** passionate about building practical applicati
 * ☕ Interested in **Java Development, Frontend Engineering & DSA**
 * 🧠 Currently improving my **Data Structures & Algorithms and problem-solving skills**
 * 🌐 Building applications with **Java, JavaScript, HTML & CSS**
-* 💻 Interested in **Full-Stack Development**
 * 📚 Currently preparing for **software development interviews**
 * 🌱 Always learning, building, and improving
 
