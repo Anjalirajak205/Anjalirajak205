@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student | Frontend Developer | Problem Solver
 
-I'm a **Computer Science student** passionate about building practical applications, strengthening my **Data Structures & Algorithms** skills, and exploring **full-stack development and AI-powered applications**.
+I'm a **Computer Science student** passionate about building practical applications, strengthening my **Data Structures & Algorithms** skills, and exploring **AI-powered applications**.
 
 * 🎓 Computer Science Student
 * ☕ Interested in **Java Development, Frontend Engineering & DSA**
